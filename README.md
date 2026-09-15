@@ -1,21 +1,21 @@
 🧠 Brain Tumor Classification using MRI
 
-Machine Learning application that classifies brain MRI images using HOG feature extraction and a Decision Tree Classifier.
+A Machine Learning application that classifies brain MRI images using HOG feature extraction and a Decision Tree Classifier.
 
 🎯 Objective
 
-Build a Machine Learning system that analyzes MRI images and predicts the tumor category.
+Analyze MRI images and predict the tumor category using image processing and Machine Learning techniques.
 
 ✨ Features
 
 - 🧠 Brain MRI Image Classification
 - 🔍 HOG Feature Extraction
-- 🌳 Decision Tree Classification
+- 🌳 Decision Tree Classifier
 - 🧹 Image Preprocessing
 - 📊 Model Performance Evaluation
-- ⚡ Real-Time Image Prediction
-- 🌐 Interactive Streamlit Web Application
+- ⚡ Real-Time MRI Image Prediction
+- 🌐 Interactive Streamlit Web App
 
 🛠️ Tech Stack
 
-🐍 Python • 🖼️ OpenCV • 🤖 Scikit-learn • 🌐 Streamlit
+Python • OpenCV • Scikit-learn • Streamlit
