@@ -4,13 +4,13 @@ A Machine Learning application that classifies brain MRI images using HOG featur
 
 🎯 Objective
 
-Analyze MRI images and predict the tumor category using image processing and Machine Learning techniques.
+Analyze MRI images and predict tumor categories using image processing and Machine Learning techniques.
 
 ✨ Features
 
 - 🧠 Brain MRI Image Classification
 - 🔍 HOG Feature Extraction
-- 🌳 Decision Tree Classifier
+- 🌳 Decision Tree Classification
 - 🧹 Image Preprocessing
 - 📊 Model Performance Evaluation
 - ⚡ Real-Time MRI Image Prediction
