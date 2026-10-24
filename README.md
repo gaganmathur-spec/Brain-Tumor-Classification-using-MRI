@@ -9,7 +9,7 @@ Analyze MRI images and predict tumor categories using image processing and Machi
 ✨ Features
 
 - 🧠 Brain MRI Image Classification
-- 🔍 HOG Feature Extraction
+- 🔍 HOG (Histogram of Oriented Gradients) Feature Extraction
 - 🌳 Decision Tree Classification
 - 🧹 Image Preprocessing
 - 📊 Model Performance Evaluation
