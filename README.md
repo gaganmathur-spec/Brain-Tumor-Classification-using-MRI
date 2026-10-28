@@ -1,6 +1,6 @@
 🧠 Brain Tumor Classification using MRI
 
-A Machine Learning application that classifies brain MRI images using HOG feature extraction and a Decision Tree Classifier.
+A Machine Learning application that classifies brain MRI images using HOG (Histogram of Oriented Gradients) feature extraction and a Decision Tree Classifier.
 
 🎯 Objective
 
